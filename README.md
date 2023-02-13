@@ -12,7 +12,9 @@ I am studying Business Data Science Master Programme at AAU.  <img src="https://
 
 
 🌱 I’m currently learning ...
-- Machinelearning (UML/SML)
-- Deep learning (CNN/RNN)
+- Machine learning (UML/SML)
+- Network analysis and NLP
+- Deep learning (CNN/RNN/LSTM) with Pytorch, tensorflow
+
 
 

@@ -9,6 +9,7 @@ I am studying Business Data Science Master Programme at AAU.  <img src="https://
 ![](https://img.shields.io/badge/web-streamlit-red)
 ![](https://img.shields.io/badge/Microsoft-Excel-brightgreen)
 ![](https://img.shields.io/badge/Microsoft-powerBI-yellow)
+![](https://img.shields.io/badge/Microsoft-mysql-blue)
 
 
 🌱 I’m currently learning ...

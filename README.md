@@ -16,6 +16,7 @@ I am studying Business Data Science Master Programme at AAU.  <img src="https://
 - Machine learning (UML/SML)
 - Network analysis and NLP
 - Deep learning (CNN/RNN/LSTM) with Pytorch, tensorflow
+- Transformers (familiar with Hugging Face)
 
 
 
